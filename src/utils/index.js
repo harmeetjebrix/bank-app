@@ -52,23 +52,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "How it Works",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Create",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Explore",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Terms & Services",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
     ],
   },
@@ -77,23 +77,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Partners",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Suggestions",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Blog",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Newsletters",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
     ],
   },
@@ -102,11 +102,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
       {
         name: "Become a Partner",
-        link: "https://naseemkhan.vercel.app/",
+        link: "https://www.linkedin.com/in/harmeetchavda/",
       },
     ],
   },
